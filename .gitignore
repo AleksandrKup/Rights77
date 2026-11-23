@@ -1,0 +1,11 @@
+/target/
+/research/
+/dist/
+*.log
+/.idea/
+/release/
+DataRights77/
+.env
+.env.*
+*.usr
+1cv7.md
